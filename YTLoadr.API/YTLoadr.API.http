@@ -1,0 +1,6 @@
+@YTLoadr.API_HostAddress = http://localhost:5073
+
+GET {{YTLoadr.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
